@@ -1,4 +1,4 @@
-Hello, voici notre extension vsCode totalement USLESS.
+Hello, voici notre extension vsCode totalement USELESS.
 
 Théo.Serrano
 Alexandre.Varyn
