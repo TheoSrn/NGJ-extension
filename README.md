@@ -4,7 +4,7 @@ Hello, voici notre extension vsCode totalement USELESS.
 
 ## 1
 
-munissez-vous du fichier .vsix
+munissez-vous du fichier .vsix et de VSCode en version 1.97.2 ou plus.
 
 ## 2
 
